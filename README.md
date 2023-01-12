@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @iBeizsley
 - 👀 I’m interested in Bitcoin, Privacy, Freedom, Security, .NET, OS Dev & Game Development.
-- 🌱 I’m currently learning EFI & BIOS.
+- 🌱 I’m currently learning EFI & BIOS, and the inner workings of ECC.
 - 📫 How to reach me isaac@poodlelabs.com
